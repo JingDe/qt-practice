@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# QT projects
+#*.o
+#*.exe
+*.Debug
+*.Release
